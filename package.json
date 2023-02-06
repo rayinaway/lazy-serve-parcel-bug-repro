@@ -1,0 +1,9 @@
+{
+	"devDependencies": {
+		"parcel": "^2.8.3"
+	},
+	"scripts": {
+		"serve": "parcel serve ./index.html",
+		"serve-lazily": "parcel serve ./index.html --lazy"
+	}
+}
